@@ -28,3 +28,8 @@ Entregables:
 Repositorio de Github
 Captura de pantalla del diagrama de clase o enlace público al archivo de diagrams.net
 Captura de pantalla de la sección testing de VSCode que muestre que se ha complido con la cobertura de tests
+
+
+## DIAGRAM UML
+
+        https://drive.google.com/file/d/1CC77wZjVYkjGDdUpvtLRL8BHz31e6ukX/view?usp=sharing
